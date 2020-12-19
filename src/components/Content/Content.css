@@ -1,0 +1,9 @@
+.content {
+  background-color: #eeeded;
+  overflow: hidden;
+  padding: 16px;
+}
+
+.content p {
+  font-family: var(--custom-font);
+}

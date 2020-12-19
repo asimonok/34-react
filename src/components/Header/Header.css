@@ -1,0 +1,16 @@
+.header {
+  background-color: #8f384d;
+  display: flex;
+  align-items: center;
+}
+
+.header a {
+  color: #ffffff;
+  margin: 0 12px;
+}
+
+.sitename {
+  margin: 0 16px;
+  font-size: 30px;
+  color: #ffffff;
+}
